@@ -1,0 +1,11 @@
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe.config
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.pdb
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csprojAssemblyReference.cache
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.Form1.resources
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.Properties.Resources.resources
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csproj.GenerateResource.cache
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csproj.CoreCompileInputs.cache
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.exe
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.pdb
+C:\Users\Marusya\source\repos\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.Timer.resources
